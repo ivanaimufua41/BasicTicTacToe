@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\tictactoeconsoleapp\tictactoeconsoleapp\bin\Debug\tictactoeconsoleapp.exe.config
+C:\Users\user\source\repos\tictactoeconsoleapp\tictactoeconsoleapp\bin\Debug\tictactoeconsoleapp.exe
+C:\Users\user\source\repos\tictactoeconsoleapp\tictactoeconsoleapp\bin\Debug\tictactoeconsoleapp.pdb
+C:\Users\user\source\repos\tictactoeconsoleapp\tictactoeconsoleapp\obj\Debug\tictactoeconsoleapp.csprojAssemblyReference.cache
+C:\Users\user\source\repos\tictactoeconsoleapp\tictactoeconsoleapp\obj\Debug\tictactoeconsoleapp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\tictactoeconsoleapp\tictactoeconsoleapp\obj\Debug\tictactoeconsoleapp.exe
+C:\Users\user\source\repos\tictactoeconsoleapp\tictactoeconsoleapp\obj\Debug\tictactoeconsoleapp.pdb
